@@ -17,3 +17,8 @@ source_metadata:
       parent: Prologue
 created_at: '2022-03-01T04:30:16.731447'
 last_modified_at: '2022-03-01T04:30:16.731450'
+statistics:
+  total_words: 556
+  total_non_words: 59
+quality:
+  non_words_ratio: 0.11
